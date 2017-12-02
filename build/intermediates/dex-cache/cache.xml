@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d1afd22c1ca75384529e90080130f2aaf75b8d3">
+        <dex dex="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9099965d2f67bfb6296f17e0002da654461c12ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylercharlebois/.android/build-cache/2a67c7da2a2dd85e4af5fb8a66a187ea28321271/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1a0d0db795d3bbb481cf4169810946204fa877a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylercharlebois/.android/build-cache/a36c2fee6342068247c783150c846e5eef6cff8f/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2161e5bee07fc62cbbf8c800c62d36443044263d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylercharlebois/.android/build-cache/a36c2fee6342068247c783150c846e5eef6cff8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_28773c733a786322f445fd19d628223948fd05dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylercharlebois/.android/build-cache/76ce45d430d37922ecf003ae12c83ffe93132179/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70f9511e4d4afb9f345cc03e8c6eaf20f32517d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylercharlebois/.android/build-cache/d54bcaf352215b154962afd315930545e520bc1e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11dcd064bafcfd9559164ca9266d156485b54634/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylercharlebois/.android/build-cache/3249404447b1b402c44162dd6c3fc9c098f5ba2c/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_43ba261a00cc4272bfbf99f636cb9a5d5239c53a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylercharlebois/.android/build-cache/d54bcaf352215b154962afd315930545e520bc1e/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d33d3bc13a5b7ddc78ce53213293e33220c9db34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylercharlebois/.android/build-cache/ca1ae255e1ecc59664a518dbd36ef6913ee7222e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_106e2cb4520c7f527ec58bb0a6112f8434a63d6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylercharlebois/.android/build-cache/21b679173e0c7bf96e41042d819aa8376d5f9406/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_345c9fef3e45e71f12145b25c0a20ce13b990cc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylercharlebois/.android/build-cache/bd3c3683e3bd7d9fd2faae1f7434e5629d6a254e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37b8cc230a4d7cae9ea9525753ad4a580bca61fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylercharlebois/.android/build-cache/bbc3b7928e1e02190ba20483cf818a7f5de65acc/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_71960aec16c21da3c800a4cb674679296ef27599/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylercharlebois/.android/build-cache/6f17a25caf9102c751366a0047f0d0e53b93848a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e86e4aaa08ae5054c1ee7c10b685f88ac7e7fb4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylercharlebois/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_9f143a24403995875e35fb32df91df2f27db5d91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylercharlebois/.android/build-cache/bbc3b7928e1e02190ba20483cf818a7f5de65acc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46a3914833c6a57b650e7c4c92b827bbd1127916/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylercharlebois/.android/build-cache/21b679173e0c7bf96e41042d819aa8376d5f9406/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e769310973d084f62702001d630bba45edc8c20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylercharlebois/.android/build-cache/3249404447b1b402c44162dd6c3fc9c098f5ba2c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb2177c0209bcafac559daa6b35fdef8a2f9ddae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f76e36cc28c21908f93adb6ccec6e047d68972a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tylercharlebois/.android/build-cache/190a4c45d76b0e746dbbe15e52505c4a9fd232fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tylercharlebois/Documents/semester3/android development/android-fundamentals-styles-themes/6-android-fundamentals-styles-themes-m6-exercise-files/before/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73ba3876db212fb35331b5a85d8b2e195e72f2a6/classes.dex" />
+    </item>
+
+</items>
